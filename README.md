@@ -5,7 +5,7 @@ Faculty of Mathematics and Informatics, Sofia University | Computer Science
 - Lectures and materials
 
 ## ex 01: 
-#include <iostream>
+```#include <iostream>
 #include <iomanip>
 #include <stack>
 
@@ -144,3 +144,4 @@ int main()
 
 	return 0;
 }
+```
