@@ -125,7 +125,7 @@ int main()
 	bool result = p % 2 == 0;
 	std::cout << result << std::endl;
 
-	//// 11
+	// 11
 
 	int l = 0;
 	std::cin >> l;
